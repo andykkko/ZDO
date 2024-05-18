@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>549</id>
+      <name>ZDO2024</name>
+      <size>134</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-03-01 17:18:51.489965+00:00</created>
+      <updated>2024-03-25 05:43:55.487785+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>133</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>619</id>
+          <start>132</start>
+          <stop>133</stop>
+          <url>http://147.228.47.24:8080/?id=619</url>
+        </segment>
+        <segment>
+          <id>618</id>
+          <start>128</start>
+          <stop>131</stop>
+          <url>http://147.228.47.24:8080/?id=618</url>
+        </segment>
+        <segment>
+          <id>617</id>
+          <start>124</start>
+          <stop>127</stop>
+          <url>http://147.228.47.24:8080/?id=617</url>
+        </segment>
+        <segment>
+          <id>616</id>
+          <start>120</start>
+          <stop>123</stop>
+          <url>http://147.228.47.24:8080/?id=616</url>
+        </segment>
+        <segment>
+          <id>615</id>
+          <start>116</start>
+          <stop>119</stop>
+          <url>http://147.228.47.24:8080/?id=615</url>
+        </segment>
+        <segment>
+          <id>614</id>
+          <start>112</start>
+          <stop>115</stop>
+          <url>http://147.228.47.24:8080/?id=614</url>
+        </segment>
+        <segment>
+          <id>613</id>
+          <start>108</start>
+          <stop>111</stop>
+          <url>http://147.228.47.24:8080/?id=613</url>
+        </segment>
+        <segment>
+          <id>612</id>
+          <start>104</start>
+          <stop>107</stop>
+          <url>http://147.228.47.24:8080/?id=612</url>
+        </segment>
+        <segment>
+          <id>611</id>
+          <start>100</start>
+          <stop>103</stop>
+          <url>http://147.228.47.24:8080/?id=611</url>
+        </segment>
+        <segment>
+          <id>610</id>
+          <start>96</start>
+          <stop>99</stop>
+          <url>http://147.228.47.24:8080/?id=610</url>
+        </segment>
+        <segment>
+          <id>609</id>
+          <start>92</start>
+          <stop>95</stop>
+          <url>http://147.228.47.24:8080/?id=609</url>
+        </segment>
+        <segment>
+          <id>608</id>
+          <start>88</start>
+          <stop>91</stop>
+          <url>http://147.228.47.24:8080/?id=608</url>
+        </segment>
+        <segment>
+          <id>607</id>
+          <start>84</start>
+          <stop>87</stop>
+          <url>http://147.228.47.24:8080/?id=607</url>
+        </segment>
+        <segment>
+          <id>606</id>
+          <start>80</start>
+          <stop>83</stop>
+          <url>http://147.228.47.24:8080/?id=606</url>
+        </segment>
+        <segment>
+          <id>605</id>
+          <start>76</start>
+          <stop>79</stop>
+          <url>http://147.228.47.24:8080/?id=605</url>
+        </segment>
+        <segment>
+          <id>604</id>
+          <start>72</start>
+          <stop>75</stop>
+          <url>http://147.228.47.24:8080/?id=604</url>
+        </segment>
+        <segment>
+          <id>603</id>
+          <start>68</start>
+          <stop>71</stop>
+          <url>http://147.228.47.24:8080/?id=603</url>
+        </segment>
+        <segment>
+          <id>602</id>
+          <start>64</start>
+          <stop>67</stop>
+          <url>http://147.228.47.24:8080/?id=602</url>
+        </segment>
+        <segment>
+          <id>601</id>
+          <start>60</start>
+          <stop>63</stop>
+          <url>http://147.228.47.24:8080/?id=601</url>
+        </segment>
+        <segment>
+          <id>600</id>
+          <start>56</start>
+          <stop>59</stop>
+          <url>http://147.228.47.24:8080/?id=600</url>
+        </segment>
+        <segment>
+          <id>599</id>
+          <start>52</start>
+          <stop>55</stop>
+          <url>http://147.228.47.24:8080/?id=599</url>
+        </segment>
+        <segment>
+          <id>598</id>
+          <start>48</start>
+          <stop>51</stop>
+          <url>http://147.228.47.24:8080/?id=598</url>
+        </segment>
+        <segment>
+          <id>597</id>
+          <start>44</start>
+          <stop>47</stop>
+          <url>http://147.228.47.24:8080/?id=597</url>
+        </segment>
+        <segment>
+          <id>596</id>
+          <start>40</start>
+          <stop>43</stop>
+          <url>http://147.228.47.24:8080/?id=596</url>
+        </segment>
+        <segment>
+          <id>595</id>
+          <start>36</start>
+          <stop>39</stop>
+          <url>http://147.228.47.24:8080/?id=595</url>
+        </segment>
+        <segment>
+          <id>594</id>
+          <start>32</start>
+          <stop>35</stop>
+          <url>http://147.228.47.24:8080/?id=594</url>
+        </segment>
+        <segment>
+          <id>593</id>
+          <start>28</start>
+          <stop>31</stop>
+          <url>http://147.228.47.24:8080/?id=593</url>
+        </segment>
+        <segment>
+          <id>592</id>
+          <start>24</start>
+          <stop>27</stop>
+          <url>http://147.228.47.24:8080/?id=592</url>
+        </segment>
+        <segment>
+          <id>591</id>
+          <start>20</start>
+          <stop>23</stop>
+          <url>http://147.228.47.24:8080/?id=591</url>
+        </segment>
+        <segment>
+          <id>590</id>
+          <start>16</start>
+          <stop>19</stop>
+          <url>http://147.228.47.24:8080/?id=590</url>
+        </segment>
+        <segment>
+          <id>589</id>
+          <start>12</start>
+          <stop>15</stop>
+          <url>http://147.228.47.24:8080/?id=589</url>
+        </segment>
+        <segment>
+          <id>588</id>
+          <start>8</start>
+          <stop>11</stop>
+          <url>http://147.228.47.24:8080/?id=588</url>
+        </segment>
+        <segment>
+          <id>587</id>
+          <start>4</start>
+          <stop>7</stop>
+          <url>http://147.228.47.24:8080/?id=587</url>
+        </segment>
+        <segment>
+          <id>586</id>
+          <start>0</start>
+          <stop>3</stop>
+          <url>http://147.228.47.24:8080/?id=586</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>mjirik</username>
+        <email>mjirik@ntis.zcu.cz</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Incision</name>
+          <color>#3df53d</color>
+          <attributes>
+            <attribute>
+              <name>Type</name>
+              <mutable>False</mutable>
+              <input_type>radio</input_type>
+              <default_value>Single</default_value>
+              <values>Single
+Transcutaneous
+Other
+Wrong</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>Stitch</name>
+          <color>#ff355e</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-03-25 10:45:00.617266+00:00</dumped>
+  </meta>
+  <image id="0" name="incision_couples/SA_20220620-102621_8ka1kmwpywxv_incision_crop_0.jpg" width="149" height="52">
+    <polyline label="Stitch" occluded="0" source="manual" points="106.50,17.80;107.40,36.90" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="86.00,18.30;86.20,36.00" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="8.70,22.00;25.00,23.40;45.70,24.20;65.80,25.10;94.80,27.00;99.60,28.30;134.20,28.40" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="1" name="incision_couples/SA_20220620-102621_8ka1kmwpywxv_incision_crop_0_start.jpg" width="149" height="52">
+    <polyline label="Incision" occluded="0" source="manual" points="8.60,22.05;25.00,23.25;47.50,23.25;80.00,26.35;93.40,25.75;100.70,27.95;136.00,28.75" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="106.10,18.25;108.10,36.65" z_order="0">
+    </polyline>
+  </image>
+  <image id="2" name="incision_couples/SA_20220620-102836_e8o0aggtd2us_incision_crop_0.jpg" width="136" height="46">
+    <polyline label="Incision" occluded="0" source="manual" points="12.30,20.70;30.70,20.60;69.00,24.30;88.40,24.50;96.10,26.00;103.40,25.80;115.80,27.40;126.60,27.40" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="111.00,20.90;108.80,35.60" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="88.30,18.90;85.50,32.30" z_order="0">
+    </polyline>
+  </image>
+  <image id="3" name="incision_couples/SA_20220620-102836_e8o0aggtd2us_incision_crop_0_start.jpg" width="136" height="46">
+  </image>
+  <image id="4" name="incision_couples/SA_20220620-103036_3vhpgd00n9vt_incision_crop_0.jpg" width="191" height="60">
+    <polyline label="Stitch" occluded="0" source="manual" points="127.55,19.31;126.43,48.81" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="158.80,45.30;161.19,31.91;160.39,18.04" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="65.21,18.83;64.26,33.98;64.26,48.97" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="94.39,47.21;93.91,23.94;96.46,21.38" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="16.59,35.10;38.43,31.91;76.37,33.02;115.12,31.27;133.61,30.15;152.90,30.31;176.97,30.15" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="5" name="incision_couples/SA_20220620-103036_3vhpgd00n9vt_incision_crop_0_start.jpg" width="191" height="60">
+    <polyline label="Stitch" occluded="0" source="manual" points="126.28,47.53;127.55,18.36" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="94.23,47.53;92.79,25.53;95.35,21.07" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="158.32,45.30;161.35,31.27;161.19,17.40" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="17.38,34.94;62.98,32.07;176.34,29.99" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="6" name="incision_couples/SA_20220620-103348_3imoxskpwsvo_incision_crop_0.jpg" width="114" height="37">
+    <polyline label="Stitch" occluded="0" source="manual" points="39.50,29.80;39.50,13.00" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="8.70,23.50;39.60,21.90;70.00,21.30;105.00,21.90" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="60.60,12.50;59.90,27.80" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="21.00,14.10;21.10,27.20;19.30,30.30" z_order="0">
+    </polyline>
+  </image>
+  <image id="7" name="incision_couples/SA_20220620-103348_3imoxskpwsvo_incision_crop_0_start.jpg" width="114" height="37">
+    <polyline label="Incision" occluded="0" source="manual" points="10.00,24.30;61.30,21.40;89.40,22.50;106.50,22.10" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="19.90,30.40;21.60,27.70;21.50,14.60" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="40.10,30.10;40.30,23.50;40.50,14.10" z_order="0">
+    </polyline>
+  </image>
+  <image id="8" name="incision_couples/SA_20220620-103827_6gqdzc08gait_incision_crop_0.jpg" width="140" height="45">
+    <polyline label="Stitch" occluded="0" source="manual" points="80.30,16.75;79.90,34.75" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="11.20,23.65;57.20,23.05;60.20,24.15;82.00,22.95;103.00,22.60;120.20,21.50;130.40,21.35" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="118.90,13.85;117.50,31.65" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="100.70,16.25;99.80,32.75" z_order="0">
+    </polyline>
+  </image>
+  <image id="9" name="incision_couples/SA_20220620-103827_6gqdzc08gait_incision_crop_0_start.jpg" width="140" height="45">
+    <polyline label="Incision" occluded="0" source="manual" points="9.50,18.95;55.20,18.65;78.40,18.65;104.00,17.45;127.30,15.55" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="116.70,9.35;115.40,26.55" z_order="0">
+    </polyline>
+  </image>
+  <image id="10" name="incision_couples/SA_20220620-104018_5w0i85t736jm_incision_crop_0.jpg" width="99" height="30">
+    <polyline label="Stitch" occluded="0" source="manual" points="65.60,10.65;66.90,21.45" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="8.80,14.05;50.70,14.35;53.30,15.25;89.00,16.15" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="81.70,10.55;82.20,22.85" z_order="0">
+    </polyline>
+  </image>
+  <image id="11" name="incision_couples/SA_20220620-104018_5w0i85t736jm_incision_crop_0_start.jpg" width="99" height="30">
+    <polyline label="Incision" occluded="0" source="manual" points="9.00,14.05;50.70,14.75;55.20,15.25;90.10,15.95" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="81.40,11.15;82.00,22.85" z_order="0">
+    </polyline>
+  </image>
+  <image id="12" name="incision_couples/SA_20220620-105330_tc2abmwmh9mt_incision_crop_0.jpg" width="115" height="38">
+    <polyline label="Incision" occluded="0" source="manual" points="9.88,18.82;43.29,19.11;86.06,19.83;110.00,20.70" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="86.06,13.06;85.77,25.88" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="103.77,14.79;103.34,25.45" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="44.75,12.50;44.35,22.90" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="24.95,11.70;23.75,23.50" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="64.89,11.91;64.60,25.16;64.60,25.16" z_order="0">
+    </polyline>
+  </image>
+  <image id="13" name="incision_couples/SA_20220620-105330_tc2abmwmh9mt_incision_crop_0_start.jpg" width="115" height="38">
+    <polyline label="Stitch" occluded="0" source="manual" points="103.95,14.38;105.35,24.98" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="45.65,11.60;45.35,22.10" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="24.95,12.10;24.75,22.50" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="86.65,12.08;85.95,23.68" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="65.75,10.58;65.75,21.68" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="10.85,19.98;24.75,18.28;44.55,17.78;65.45,18.38;86.75,18.78;96.15,21.38;110.25,19.98" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="14" name="incision_couples/SA_20220620-105545_tlmnkcr9sjlm_incision_crop_0.jpg" width="167" height="49">
+    <polyline label="Stitch" occluded="0" source="manual" points="75.69,35.51;76.70,19.17" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="50.75,34.80;52.18,18.74" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="26.81,35.37;28.82,16.45" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="11.90,30.35;26.24,26.77;40.00,28.49;51.75,25.62;76.27,26.19;87.88,22.47;109.81,22.18;125.72,21.46;138.05,22.18;151.81,25.05" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="146.79,30.78;148.08,16.73" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="125.00,31.64;125.43,17.59" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="99.34,32.50;100.06,17.16" z_order="0">
+    </polyline>
+  </image>
+  <image id="15" name="incision_couples/SA_20220620-105545_tlmnkcr9sjlm_incision_crop_0_start.jpg" width="167" height="49">
+    <polyline label="Incision" occluded="0" source="manual" points="13.19,32.22;27.96,28.92;52.61,27.77;77.99,28.63;99.06,26.77;123.71,34.08;152.53,29.92" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="75.55,37.95;77.70,20.32" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="147.22,37.81;148.51,25.33" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="51.18,37.23;53.19,19.89" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="27.38,37.81;29.68,17.02" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="101.78,17.34;99.35,37.98" z_order="0">
+    </polyline>
+  </image>
+  <image id="16" name="incision_couples/SA_20220620-110036_vp424rn48961_incision_crop_0.jpg" width="170" height="47">
+    <polyline label="Stitch" occluded="0" source="manual" points="51.77,14.95;51.27,34.43" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="100.39,15.71;101.40,35.31" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="76.27,14.70;77.40,36.69" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="17.84,26.14;52.02,24.88;79.16,25.51;104.41,25.38;113.34,26.14;126.53,25.01;158.82,25.76;158.82,25.76" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="125.40,14.07;126.91,34.81" z_order="0">
+    </polyline>
+  </image>
+  <image id="17" name="incision_couples/SA_20220620-110036_vp424rn48961_incision_crop_0_start.jpg" width="170" height="47">
+    <polyline label="Incision" occluded="0" source="manual" points="16.59,26.26;50.51,25.51;101.52,25.26;114.09,26.39;127.66,24.88;127.66,24.88;159.07,26.01" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="51.00,14.60;50.50,34.70" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="76.02,15.21;77.40,36.69" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="100.77,15.58;101.40,35.56" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="125.77,15.46;126.78,35.06" z_order="0">
+    </polyline>
+  </image>
+  <image id="18" name="incision_couples/SA_20220620-110712_nz4lxg10ky6z_incision_crop_0.jpg" width="119" height="33">
+    <polyline label="Stitch" occluded="0" source="manual" points="54.65,12.40;54.65,24.60" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="8.45,20.10;20.45,20.00;28.25,19.10;55.15,19.20;70.85,17.50;87.35,16.70;103.65,15.00;112.15,14.90" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="70.85,24.30;69.85,11.90" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="37.15,11.70;36.85,26.30" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="19.95,12.90;19.95,27.90" z_order="0">
+    </polyline>
+  </image>
+  <image id="19" name="incision_couples/SA_20220620-110712_nz4lxg10ky6z_incision_crop_0_start.jpg" width="119" height="33">
+    <polyline label="Incision" occluded="0" source="manual" points="8.35,18.60;25.05,17.90;55.05,18.10;71.25,16.50;87.25,15.50;111.05,13.20" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="36.75,11.10;36.65,24.50" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="54.25,11.40;54.25,11.40;54.55,23.30" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="69.25,11.10;70.45,23.50" z_order="0">
+    </polyline>
+  </image>
+  <image id="20" name="incision_couples/SA_20220707-184836_i544dpo1p1b9_incision_crop_0.jpg" width="119" height="33">
+    <polyline label="Stitch" occluded="0" source="manual" points="54.65,11.70;54.95,24.20" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="19.85,11.50;19.85,27.20" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="112.25,14.80;101.75,14.90;86.55,16.90;77.75,16.90;70.75,17.50;64.55,18.90;57.95,19.20;51.65,18.90;46.85,18.70;44.65,18.00;37.15,19.10;22.45,19.50;18.45,20.40;8.45,20.50" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="69.25,11.60;70.45,24.90" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="37.25,10.60;37.05,26.00" z_order="0">
+    </polyline>
+  </image>
+  <image id="21" name="incision_couples/SA_20220707-184836_i544dpo1p1b9_incision_crop_0_start.jpg" width="119" height="33">
+    <polyline label="Stitch" occluded="0" source="manual" points="54.18,10.57;54.54,24.13" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="36.75,9.80;36.75,24.70" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="69.05,10.90;70.25,23.70" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="8.05,18.90;15.55,18.70;22.05,17.90;38.45,17.80;54.35,17.70;64.65,17.60;74.25,15.90;83.15,15.70;98.75,15.10;104.75,13.60;108.85,13.50" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="22" name="incision_couples/SA_20220707-185055_489d46mj8m13_incision_crop_0.jpg" width="157" height="46">
+    <polyline label="Stitch" occluded="0" source="manual" points="103.10,10.30;100.86,36.67" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="144.62,26.74;93.18,22.68;90.40,23.75;76.21,22.36;63.61,22.15;53.58,19.27;38.43,20.12;31.60,20.02;26.26,18.31;13.66,17.99" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="80.24,7.81;78.91,33.84" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="55.30,9.10;51.55,31.54" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="30.31,5.82;27.33,27.59" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="129.79,13.93;127.65,38.80" z_order="0">
+    </polyline>
+  </image>
+  <image id="23" name="incision_couples/SA_20220707-185055_489d46mj8m13_incision_crop_0_start.jpg" width="157" height="46">
+    <polyline label="Stitch" occluded="0" source="manual" points="129.70,14.10;126.60,38.40" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="78.02,32.29;79.62,7.95" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="103.32,8.81;100.54,36.77" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="15.27,16.71;27.97,18.95;33.30,19.38;41.20,19.48;49.31,18.52;58.71,19.59;73.54,20.02;81.33,21.30;98.30,21.72;112.18,22.47;118.15,23.54;128.90,24.20;142.49,25.67" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="24" name="incision_couples/SA_20220707-185800_qz8chub67fgk_incision_crop_0.jpg" width="122" height="40">
+    <polyline label="Stitch" occluded="0" source="manual" points="101.60,14.15;102.70,29.75" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="109.30,22.45;81.70,23.35;59.10,21.75;35.30,19.85;10.10,17.05" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="61.50,12.25;61.30,29.85" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="80.10,13.65;80.80,30.15" z_order="0">
+    </polyline>
+  </image>
+  <image id="25" name="incision_couples/SA_20220707-185800_qz8chub67fgk_incision_crop_0_start.jpg" width="122" height="40">
+    <polyline label="Incision" occluded="0" source="manual" points="110.50,16.95;93.90,17.60;80.40,16.50;61.40,16.10;38.20,15.50;10.10,12.00" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="26" name="incision_couples/SA_20220707-190320_tl4ev95290pp_incision_crop_0.jpg" width="170" height="60">
+    <polyline label="Stitch" occluded="0" source="manual" points="90.42,18.44;88.69,46.45" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="151.22,12.14;151.76,33.64" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="118.97,15.08;118.54,38.74" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="15.74,40.04;30.50,37.90;44.50,36.60;60.40,34.60;74.80,34.30;101.61,32.12;109.70,30.10;126.14,29.40;134.50,27.00;146.30,25.30;159.47,21.81" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="27" name="incision_couples/SA_20220707-190320_tl4ev95290pp_incision_crop_0_start.jpg" width="170" height="60">
+  </image>
+  <image id="28" name="incision_couples/SA_20220707-190833_wplmvf6rbgun_incision_crop_0.jpg" width="166" height="43">
+    <polyline label="Stitch" occluded="0" source="manual" points="62.56,12.18;61.54,32.11" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="29.68,12.76;27.21,30.96" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="146.95,12.91;149.27,32.11" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="11.79,22.23;59.51,22.09;62.27,21.94;66.06,22.53;73.33,25.71;117.85,25.42;131.23,25.86;138.07,25.42;149.27,24.56;160.18,24.56" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="120.90,15.40;120.47,34.60" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="91.81,16.85;90.50,36.20" z_order="0">
+    </polyline>
+  </image>
+  <image id="29" name="incision_couples/SA_20220707-190833_wplmvf6rbgun_incision_crop_0_start.jpg" width="166" height="43">
+    <polyline label="Stitch" occluded="0" source="manual" points="92.10,16.27;90.50,35.04" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="17.03,21.94;31.87,22.23;49.47,22.09;66.06,24.13;83.51,24.13;114.36,25.14;135.89,25.14;162.08,23.83" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="120.90,15.83;121.19,34.60" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="147.53,12.76;148.98,32.11" z_order="0">
+    </polyline>
+  </image>
+  <image id="30" name="incision_couples/SA_20220707-191616_au7adshux0ub_incision_crop_0.jpg" width="133" height="45">
+    <polyline label="Incision" occluded="0" source="manual" points="12.94,23.55;37.88,22.50;54.90,22.03;71.57,20.75;89.99,21.80;110.27,23.55;123.33,22.96" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="112.14,15.97;113.07,30.66" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="92.32,14.22;90.81,29.38" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="67.61,14.22;67.26,28.21" z_order="0">
+    </polyline>
+  </image>
+  <image id="31" name="incision_couples/SA_20220707-191616_au7adshux0ub_incision_crop_0_start.jpg" width="133" height="45">
+    <polyline label="Incision" occluded="0" source="manual" points="14.22,28.79;36.84,28.56;54.79,28.79;76.00,28.09;95.82,28.56;108.87,30.31;123.33,29.49" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="112.84,21.45;114.23,37.07" z_order="0">
+    </polyline>
+  </image>
+  <image id="32" name="incision_couples/SA_20220707-193326_fwk7kh1u6h9v_incision_crop_0.jpg" width="163" height="57">
+    <polyline label="Stitch" occluded="0" source="manual" points="112.50,17.85;113.30,39.25" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="139.10,10.65;142.90,39.45" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="12.59,36.19;37.35,33.95;74.85,30.59;106.47,29.05;151.38,25.56" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="33" name="incision_couples/SA_20220707-193326_fwk7kh1u6h9v_incision_crop_0_start.jpg" width="163" height="57">
+    <polyline label="Incision" occluded="0" source="manual" points="0.10,28.75;103.30,20.55" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="34" name="incision_couples/SA_20220801-104759_9xjxd9p268zh_incision_crop_0.jpg" width="339" height="81">
+    <polyline label="Incision" occluded="0" source="manual" points="33.35,41.80;89.59,39.05;107.11,40.59;195.01,38.73;246.34,39.05;313.95,36.59" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="97.58,21.97;98.50,57.01" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="195.01,18.59;194.40,61.93" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="147.37,21.68;149.52,61.32" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="51.48,21.38;53.02,57.01" z_order="0">
+    </polyline>
+  </image>
+  <image id="35" name="incision_couples/SA_20220801-104759_9xjxd9p268zh_incision_crop_0_start.jpg" width="339" height="81">
+    <polyline label="Stitch" occluded="0" source="manual" points="149.21,19.84;150.14,59.18" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="34.88,40.72;59.78,40.43;96.97,38.59;150.45,38.59;212.53,36.42;277.69,35.50;302.89,28.44;337.62,24.43" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="51.48,21.68;53.63,56.71" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="98.20,20.45;99.43,57.63" z_order="0">
+    </polyline>
+  </image>
+  <image id="36" name="incision_couples/SA_20220801-104954_v54bjqlnnzat_incision_crop_0.jpg" width="163" height="57">
+    <polyline label="Incision" occluded="0" source="manual" points="13.29,23.18;49.24,28.91;74.85,31.71;102.83,33.39;126.48,34.65;155.20,36.90" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="114.86,23.32;110.25,44.31" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="56.10,17.58;54.14,34.51" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="25.74,16.04;27.42,34.23" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="142.57,25.42;139.07,46.26" z_order="0">
+    </polyline>
+  </image>
+  <image id="37" name="incision_couples/SA_20220801-104954_v54bjqlnnzat_incision_crop_0_start.jpg" width="163" height="57">
+    <polyline label="Stitch" occluded="0" source="manual" points="151.55,14.29;148.78,45.61" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="26.58,17.86;64.08,21.50;93.18,25.00;123.54,28.36;161.60,29.19" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="38" name="incision_couples/SA_20220801-105601_x4cdxbxc41x5_incision_crop_0.jpg" width="167" height="54">
+    <polyline label="Stitch" occluded="0" source="manual" points="78.13,22.07;80.48,39.34" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="11.73,37.11;38.02,35.02;66.03,32.05;98.99,27.75;124.29,24.65;154.16,21.19" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="129.97,14.77;129.72,33.41" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="103.68,18.23;105.53,36.37" z_order="0">
+    </polyline>
+  </image>
+  <image id="39" name="incision_couples/SA_20220801-105601_x4cdxbxc41x5_incision_crop_0_start.jpg" width="167" height="54">
+    <polyline label="Incision" occluded="0" source="manual" points="12.10,37.36;41.35,34.77;74.92,31.31;103.93,27.12;133.18,23.54;153.92,20.82" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="78.22,21.07;80.93,40.08" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="103.56,18.48;105.66,36.62" z_order="0">
+    </polyline>
+  </image>
+  <image id="40" name="incision_couples/SA_20220801-105816_386i45phs69h_incision_crop_0.jpg" width="160" height="59">
+    <polyline label="Stitch" occluded="0" source="manual" points="77.71,19.62;79.72,41.41" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="106.52,17.32;108.43,35.46" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="13.67,39.52;30.19,38.71;57.54,33.43;72.16,30.59;97.05,28.28;111.01,25.44;133.87,23.14;145.52,21.38" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="131.03,13.80;135.37,33.83" z_order="0">
+    </polyline>
+  </image>
+  <image id="41" name="incision_couples/SA_20220801-105816_386i45phs69h_incision_crop_0_start.jpg" width="160" height="59">
+    <polyline label="Incision" occluded="0" source="manual" points="0.02,36.41;20.16,35.43;33.48,34.29;39.65,33.48;70.03,31.86;98.78,31.86;116.81,30.56;127.53,30.56" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="113.08,22.22;115.02,42.20" z_order="0">
+    </polyline>
+  </image>
+  <image id="42" name="incision_couples/SA_20220801-111423_im4mib3x6x6z_incision_crop_0.jpg" width="190" height="55">
+    <polyline label="Stitch" occluded="0" source="manual" points="139.52,17.85;137.11,42.28" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="13.82,20.42;45.48,22.51;65.90,23.32;108.82,26.53;121.35,25.73;140.32,28.30;173.92,27.82" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="43" name="incision_couples/SA_20220801-111423_im4mib3x6x6z_incision_crop_0_start.jpg" width="190" height="55">
+    <polyline label="Incision" occluded="0" source="manual" points="16.39,32.00;58.66,33.93;109.78,35.37;177.94,35.37" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="44" name="incision_couples/SA_20220801-111801_m9608zk6fc3j_incision_crop_0.jpg" width="110" height="31">
+    <polyline label="Stitch" occluded="0" source="manual" points="69.60,22.30;68.60,9.50" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="86.90,21.30;86.30,9.10" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="17.40,22.50;16.70,8.30" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="7.50,17.20;18.20,17.00;33.90,17.10;51.40,16.70;69.80,16.30;86.60,15.90;101.40,16.00" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="34.90,22.10;33.40,9.90;33.40,9.90" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="51.20,22.80;51.20,9.60" z_order="0">
+    </polyline>
+  </image>
+  <image id="45" name="incision_couples/SA_20220801-111801_m9608zk6fc3j_incision_crop_0_start.jpg" width="110" height="31">
+    <polyline label="Stitch" occluded="0" source="manual" points="69.00,9.60;70.00,22.30" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="8.30,17.10;23.20,17.50;34.70,17.00;79.90,16.70;105.30,16.70" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="51.80,9.90;51.60,23.20" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="33.50,10.80;34.50,17.50;34.90,22.50" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="17.00,23.20;16.70,9.10" z_order="0">
+    </polyline>
+  </image>
+  <image id="46" name="incision_couples/SA_20230221-170209_fjjk49knokt5_incision_crop_0.jpg" width="185" height="51">
+    <polyline label="Stitch" occluded="0" source="manual" points="159.49,7.98;159.49,20.02;160.74,24.87;157.61,30.66;158.55,37.40" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="16.90,25.49;49.93,26.90;70.27,24.24;70.27,24.24;82.01,22.83;97.51,23.00;110.34,21.28;125.21,22.52;133.97,23.00;145.71,21.11;159.02,20.33;174.51,18.14" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="123.80,38.03;126.77,22.05;126.46,11.42" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="91.71,38.66;91.09,22.68;94.06,11.09" z_order="0">
+    </polyline>
+  </image>
+  <image id="47" name="incision_couples/SA_20230221-170209_fjjk49knokt5_incision_crop_0_start.jpg" width="185" height="51">
+    <polyline label="Stitch" occluded="0" source="manual" points="125.68,11.42;123.96,37.54" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="16.12,26.12;50.55,27.37;89.84,23.30;96.88,23.30;108.15,20.02;114.25,20.19;121.30,21.74;129.59,22.21;135.85,22.38;149.47,21.11;149.47,21.11;158.86,20.66;167.00,19.86;170.44,19.08;173.73,19.23" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="158.23,37.40;160.11,9.84" z_order="0">
+    </polyline>
+  </image>
+  <image id="48" name="incision_couples/SA_20230221-171945_q16boyyjsd92_incision_crop_0.jpg" width="110" height="38">
+    <polyline label="Stitch" occluded="0" source="manual" points="71.80,13.85;71.70,26.25" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="35.00,13.35;34.80,23.95" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="9.50,17.55;24.90,19.05;35.90,18.15;52.10,19.65;62.40,20.05;71.70,18.65;82.30,21.05;96.60,20.85;98.90,20.95" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="49" name="incision_couples/SA_20230221-171945_q16boyyjsd92_incision_crop_0_start.jpg" width="110" height="38">
+    <polyline label="Stitch" occluded="0" source="manual" points="35.10,12.65;34.90,23.95" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="10.20,17.45;19.50,18.75;35.40,17.95;52.30,20.15;71.70,20.75;87.30,20.85;98.30,21.25" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="50" name="incision_couples/SA_20230221-173417_jfncqxuog4n4_incision_crop_0.jpg" width="141" height="53">
+    <polyline label="Stitch" occluded="0" source="manual" points="105.20,18.15;105.20,39.05" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="13.40,20.15;38.20,21.25;55.70,24.95;66.10,25.15;91.10,28.55;101.90,30.65;116.10,30.85" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="132.10,15.05;132.30,42.45" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="81.00,15.95;81.60,36.15" z_order="0">
+    </polyline>
+  </image>
+  <image id="51" name="incision_couples/SA_20230221-173417_jfncqxuog4n4_incision_crop_0_start.jpg" width="141" height="53">
+    <polyline label="Incision" occluded="0" source="manual" points="15.92,19.35;59.62,21.15;88.42,25.15;109.70,26.50" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="133.72,15.15;134.42,41.45" z_order="0">
+    </polyline>
+  </image>
+  <image id="52" name="incision_couples/SA_20230221-174453_xfau0ucig9se_incision_crop_0.jpg" width="150" height="60">
+    <polyline label="Stitch" occluded="0" source="manual" points="51.80,18.05;46.10,38.15" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="78.50,22.85;76.40,42.85" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="11.80,19.15;51.70,30.75;74.80,33.95;95.60,33.35;138.70,40.65" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="27.50,12.75;23.30,32.65" z_order="0">
+    </polyline>
+  </image>
+  <image id="53" name="incision_couples/SA_20230221-174453_xfau0ucig9se_incision_crop_0_start.jpg" width="150" height="60">
+    <polyline label="Stitch" occluded="0" source="manual" points="27.60,12.50;23.70,32.70" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="11.50,19.15;36.90,26.15;89.30,34.25;138.00,40.35" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="54" name="incision_couples/SA_20230221-194108_rr2cu6no7pxi_incision_crop_0.jpg" width="140" height="48">
+    <polyline label="Stitch" occluded="0" source="manual" points="116.60,16.25;116.20,37.15" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="47.40,15.35;46.50,33.05" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="70.70,16.45;70.10,35.95" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="93.30,14.35;93.20,35.65" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="10.70,24.75;30.90,23.35;56.80,25.15;80.70,24.90;127.90,25.95" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="55" name="incision_couples/SA_20230221-194108_rr2cu6no7pxi_incision_crop_0_start.jpg" width="140" height="48">
+    <polyline label="Stitch" occluded="0" source="manual" points="69.90,16.55;69.90,35.15" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="10.70,24.95;22.50,23.15;84.60,24.65;92.20,25.75;127.30,25.95" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="116.10,15.35;115.70,37.05" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="93.50,14.25;92.90,35.85" z_order="0">
+    </polyline>
+  </image>
+  <image id="56" name="incision_couples/SA_20230221-195759_f7pcqna517us_incision_crop_0.jpg" width="180" height="52">
+    <polyline label="Incision" occluded="0" source="manual" points="14.39,22.93;60.85,27.01;77.18,26.04;93.12,27.98;103.81,25.65;132.00,27.59;152.21,28.76;159.21,26.23;163.10,29.34;170.09,26.62" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="155.13,15.93;157.27,38.48" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="131.80,16.51;132.38,39.64" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="105.17,16.71;104.78,37.89" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="76.40,16.51;77.96,41.39" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="52.30,19.23;51.71,39.06" z_order="0">
+    </polyline>
+  </image>
+  <image id="57" name="incision_couples/SA_20230221-195759_f7pcqna517us_incision_crop_0_start.jpg" width="180" height="52">
+  </image>
+  <image id="58" name="incision_couples/SA_20230221-205917_nu2i64xl9cio_incision_crop_0.jpg" width="159" height="53">
+    <polyline label="Stitch" occluded="0" source="manual" points="135.01,14.90;136.04,39.97" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="107.54,16.28;110.29,42.89" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="83.50,21.43;88.14,43.41" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="60.49,19.88;61.69,43.23" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="31.13,17.65;31.82,41.35" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="17.05,29.84;73.71,30.87;80.07,32.42;145.83,26.58" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="59" name="incision_couples/SA_20230221-205917_nu2i64xl9cio_incision_crop_0_start.jpg" width="159" height="53">
+  </image>
+  <image id="60" name="incision_couples/SA_20230221-214441_yjvfpna70k4z_incision_crop_0.jpg" width="162" height="51">
+    <polyline label="Incision" occluded="0" source="manual" points="12.28,22.29;36.73,21.05;60.39,19.36;79.99,18.23;96.55,17.67;113.11,17.67;129.78,18.45;148.48,18.45" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="99.59,2.79;100.15,30.73" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="138.34,30.62;138.57,8.99" z_order="0">
+    </polyline>
+  </image>
+  <image id="61" name="incision_couples/SA_20230221-214441_yjvfpna70k4z_incision_crop_0_start.jpg" width="162" height="51">
+    <polyline label="Incision" occluded="0" source="manual" points="38.64,21.50;57.34,20.14;78.18,19.92;105.22,19.69;124.37,21.38;147.36,27.80" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="62" name="incision_couples/SA_20230221-220322_q3041fzkf34o_incision_crop_0.jpg" width="136" height="51">
+    <polyline label="Stitch" occluded="0" source="manual" points="67.80,19.45;67.80,37.75" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="115.10,14.05;115.90,33.05" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="89.90,17.55;89.90,35.45" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="44.70,22.15;45.10,39.45" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="25.30,23.45;24.30,41.55" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="13.40,31.95;29.10,32.85;43.10,30.35;50.50,29.65;65.40,29.05;77.20,28.05;81.80,26.75;95.50,25.95;105.70,25.15;127.30,24.65" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="63" name="incision_couples/SA_20230221-220322_q3041fzkf34o_incision_crop_0_start.jpg" width="136" height="51">
+    <polyline label="Stitch" occluded="0" source="manual" points="89.80,18.15;89.40,36.05" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="14.50,32.45;29.20,33.35;42.00,30.85;56.30,30.25;70.10,29.35;84.40,27.55;98.20,25.95;111.10,25.45;128.50,25.25" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="115.50,14.95;115.80,34.05" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="44.40,22.55;45.10,40.05" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="68.00,20.05;67.50,38.35" z_order="0">
+    </polyline>
+  </image>
+  <image id="64" name="incision_couples/SA_20230221-221106_l3rsm7wy09dq_incision_crop_0.jpg" width="157" height="51">
+    <polyline label="Stitch" occluded="0" source="manual" points="80.48,15.75;80.48,37.95" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="132.82,13.04;133.54,35.24" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="51.97,15.57;54.86,39.57" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="16.78,27.66;28.15,27.66;53.95,26.76;80.84,25.50;107.73,25.13;133.90,24.95;145.45,23.15" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="106.47,14.67;106.65,36.32" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="27.97,21.16;29.05,39.57" z_order="0">
+    </polyline>
+  </image>
+  <image id="65" name="incision_couples/SA_20230221-221106_l3rsm7wy09dq_incision_crop_0_start.jpg" width="157" height="51">
+    <polyline label="Incision" occluded="0" source="manual" points="45.98,31.49;75.90,30.48;100.19,29.90;126.36,27.73;152.81,25.72" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="66" name="incision_couples/SA_20230221-230333_ottubudxche5_incision_crop_0.jpg" width="150" height="52">
+    <polyline label="Incision" occluded="0" source="manual" points="15.75,24.27;24.59,25.79;51.93,29.24;77.90,30.90;102.62,31.59;128.87,33.11;142.13,33.52" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="129.14,23.03;128.59,40.98" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="103.73,22.20;102.49,39.60" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="77.35,21.51;77.35,39.19" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="53.18,19.57;52.35,36.98" z_order="0">
+    </polyline>
+  </image>
+  <image id="67" name="incision_couples/SA_20230221-230333_ottubudxche5_incision_crop_0_start.jpg" width="150" height="52">
+    <polyline label="Stitch" occluded="0" source="manual" points="129.42,24.41;129.56,43.05" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="14.09,27.17;24.45,28.14;50.69,31.45;77.76,33.38;103.45,33.66;128.73,34.07;141.44,34.63" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="77.90,23.30;77.35,41.26" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="104.14,23.72;102.90,42.50" z_order="0">
+    </polyline>
+  </image>
+  <image id="68" name="incision_couples/SA_20230222-081135_g7rtvpomi3ud_incision_crop_0.jpg" width="139" height="45">
+    <polyline label="Incision" occluded="0" source="manual" points="10.35,22.90;23.75,23.80;45.05,23.30;67.55,22.50;92.45,22.00;115.45,20.90;126.15,20.70" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="66.15,30.90;69.05,14.80" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="43.55,31.00;45.65,17.50" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="21.75,31.60;23.65,17.70" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="114.55,29.30;114.35,15.00" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="92.05,32.00;94.05,14.80" z_order="0">
+    </polyline>
+  </image>
+  <image id="69" name="incision_couples/SA_20230222-081135_g7rtvpomi3ud_incision_crop_0_start.jpg" width="139" height="45">
+    <polyline label="Stitch" occluded="0" source="manual" points="68.25,16.40;65.45,32.30" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="10.45,24.90;22.95,25.50;45.05,24.50;66.85,24.00;91.55,23.60;114.75,22.30;126.25,22.10" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="114.15,16.30;114.15,31.50" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="93.65,16.70;91.45,34.10" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="45.05,19.00;42.75,33.40" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="23.75,19.30;21.65,33.10" z_order="0">
+    </polyline>
+  </image>
+  <image id="70" name="incision_couples/SA_20230222-081220_3eqibwho3ep5_incision_crop_0.jpg" width="198" height="58">
+    <polyline label="Stitch" occluded="0" source="manual" points="29.85,37.00;32.15,17.60" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="16.25,26.20;32.05,26.90;65.95,28.10;99.05,28.00;130.95,28.70;160.65,30.30;182.15,31.00" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="71" name="incision_couples/SA_20230222-081220_3eqibwho3ep5_incision_crop_0_start.jpg" width="198" height="58">
+    <polyline label="Incision" occluded="0" source="manual" points="18.35,24.60;33.25,25.40;63.55,27.10;98.85,26.00;130.05,27.40;160.85,28.80;182.95,29.70" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="72" name="incision_couples/SA_20230222-105936_pulegndhivlt_incision_crop_0.jpg" width="142" height="53">
+    <polyline label="Stitch" occluded="0" source="manual" points="92.80,19.50;92.40,39.95" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="45.00,17.55;44.70,34.65" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="8.50,25.65;50.80,26.60;61.00,29.10;103.60,29.30;130.70,30.75" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="118.20,20.65;118.20,39.00" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="68.60,19.50;68.00,37.20" z_order="0">
+    </polyline>
+  </image>
+  <image id="73" name="incision_couples/SA_20230222-105936_pulegndhivlt_incision_crop_0_start.jpg" width="142" height="53">
+    <polyline label="Stitch" occluded="0" source="manual" points="92.50,20.00;92.40,40.05" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="9.50,25.75;51.50,27.55;63.90,29.45;110.00,29.70;130.10,30.65" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="118.50,21.15;118.50,39.40" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="67.80,19.75;67.80,37.55" z_order="0">
+    </polyline>
+  </image>
+  <image id="74" name="incision_couples/SA_20230222-130319_c1g5pmjim3m6_incision_crop_0.jpg" width="211" height="55">
+    <polyline label="Stitch" occluded="0" source="manual" points="139.50,15.30;137.43,39.96" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="14.15,24.20;153.50,29.00;192.80,29.40" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="75" name="incision_couples/SA_20230222-130319_c1g5pmjim3m6_incision_crop_0_start.jpg" width="211" height="55">
+    <polyline label="Incision" occluded="0" source="manual" points="14.40,25.30;197.79,29.05" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="76" name="incision_couples/SA_20230222-130406_m4v4phxa1szl_incision_crop_0.jpg" width="147" height="45">
+    <polyline label="Stitch" occluded="0" source="manual" points="50.55,32.68;46.01,19.68;48.59,11.33" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="15.46,19.92;33.62,18.94;97.06,25.94;136.69,27.29" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="29.69,30.11;27.61,17.72;29.94,10.97" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="122.33,36.61;122.70,15.75" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="97.67,37.10;96.81,14.16" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="72.15,35.88;71.78,13.54" z_order="0">
+    </polyline>
+  </image>
+  <image id="77" name="incision_couples/SA_20230222-130406_m4v4phxa1szl_incision_crop_0_start.jpg" width="147" height="45">
+    <polyline label="Stitch" occluded="0" source="manual" points="97.30,37.22;97.18,14.40" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="15.70,19.80;32.15,19.19;47.24,21.89;72.02,22.99;83.68,24.59;96.56,26.06;136.20,27.41" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="122.09,37.59;122.70,14.89" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="72.76,36.24;72.15,13.30" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="30.30,30.72;28.22,11.33" z_order="0">
+    </polyline>
+  </image>
+  <image id="78" name="incision_couples/SA_20230222-130540_1qil9lfd57zi_incision_crop_0.jpg" width="183" height="60">
+    <polyline label="Incision" occluded="0" source="manual" points="15.89,28.01;62.03,23.73;91.35,24.65;103.42,26.94;129.09,24.34;148.18,25.11;167.73,22.81" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="148.79,14.57;150.47,38.55" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="117.78,18.84;120.07,41.45" z_order="0">
+    </polyline>
+  </image>
+  <image id="79" name="incision_couples/SA_20230222-130540_1qil9lfd57zi_incision_crop_0_start.jpg" width="183" height="60">
+    <polyline label="Incision" occluded="0" source="manual" points="163.76,22.20;107.39,27.55" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="146.65,13.80;149.10,37.63" z_order="0">
+    </polyline>
+  </image>
+  <image id="80" name="incision_couples/SA_20230223-185323_a8fpc9rp1tl8_incision_crop_0.jpg" width="145" height="48">
+    <polyline label="Stitch" occluded="0" source="manual" points="116.80,22.15;120.40,33.05" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="13.10,30.65;50.90,26.75;57.90,25.95;74.80,26.15;90.20,25.55;104.90,25.35;110.20,26.75;118.90,25.15;125.20,26.55;130.00,24.75" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="15.90,7.45;40.20,6.95;50.60,4.85;64.60,5.55;69.70,3.15;83.40,4.15;91.60,2.85;111.70,4.25;115.30,3.35;125.90,3.95" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="26.60,4.75;25.60,14.25" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="25.60,22.85;24.70,35.15" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="50.60,22.15;49.70,35.55" z_order="0">
+    </polyline>
+  </image>
+  <image id="81" name="incision_couples/SA_20230223-185323_a8fpc9rp1tl8_incision_crop_0_start.jpg" width="145" height="48">
+    <polyline label="Stitch" occluded="0" source="manual" points="50.90,19.15;50.50,32.35" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="118.60,19.85;122.30,30.25" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="26.80,0.45;25.10,12.85" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="26.20,19.55;25.00,32.85" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="16.10,5.45;32.20,4.35;39.40,5.35;47.70,3.45;65.30,3.95;72.80,1.95;83.80,2.45;92.60,1.65;104.40,3.65;126.80,3.45" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="14.20,27.05;27.00,25.25;40.30,25.15;57.80,22.95;81.50,21.95;109.10,22.05;111.20,23.75;132.60,23.05" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="82" name="incision_couples/SA_20231010-170005_dt833dxtbjdt_incision_crop_0.jpg" width="159" height="53">
+    <polyline label="Stitch" occluded="0" source="manual" points="124.48,23.71;124.27,39.34" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="102.55,20.96;100.11,37.41" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="54.22,13.45;52.29,28.17" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="32.79,8.98;28.53,28.88" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="10.25,21.37;24.87,18.12;38.28,19.64;44.77,19.44;51.88,21.57;66.10,21.07;79.90,24.42;91.78,25.03;102.04,28.88;115.24,29.19;124.58,31.12;131.69,30.71;135.95,31.73" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="78.28,16.90;75.34,35.28" z_order="0">
+    </polyline>
+  </image>
+  <image id="83" name="incision_couples/SA_20231010-170005_dt833dxtbjdt_incision_crop_0_start.jpg" width="159" height="53">
+    <polyline label="Incision" occluded="0" source="manual" points="29.85,21.47;47.52,17.21;73.41,16.60;96.76,17.41" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="110.87,18.22;136.25,17.92;153.52,16.29" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="84" name="incision_couples/SA_20231010-205057_tztw2ntri8vk_incision_crop_0.jpg" width="157" height="62">
+    <polyline label="Stitch" occluded="0" source="manual" points="52.82,21.52;53.36,46.58" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="80.99,18.28;82.74,41.46" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="131.12,14.64;131.39,39.30" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="14.01,39.03;71.01,29.74;113.33,26.37;143.25,24.75" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="85" name="incision_couples/SA_20231010-205057_tztw2ntri8vk_incision_crop_0_start.jpg" width="157" height="62">
+    <polyline label="Stitch" occluded="0" source="manual" points="104.99,16.99;105.53,40.30" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="130.46,14.70;130.86,39.36" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="16.04,38.55;52.56,34.10;83.68,31.81;142.32,23.99" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="86" name="incision_couples/SA_20231011-084804_h9471s2220ko_incision_crop_0.jpg" width="154" height="56">
+    <polyline label="Incision" occluded="0" source="manual" points="13.09,28.53;79.05,26.54;120.40,27.50;140.65,27.87" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="129.15,13.59;129.55,43.99" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="104.56,14.12;106.02,42.67" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="78.65,14.65;77.60,42.94" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="52.61,15.04;52.88,42.54" z_order="0">
+    </polyline>
+  </image>
+  <image id="87" name="incision_couples/SA_20231011-084804_h9471s2220ko_incision_crop_0_start.jpg" width="154" height="56">
+    <polyline label="Stitch" occluded="0" source="manual" points="129.41,14.52;129.55,44.26" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="13.09,29.32;60.28,28.79;99.67,28.13;140.52,28.39" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="79.05,14.65;77.86,43.73" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="104.17,15.18;106.28,42.01" z_order="0">
+    </polyline>
+  </image>
+  <image id="88" name="incision_couples/SA_20231011-104231_e3sdqld32ut6_incision_crop_0.jpg" width="229" height="71">
+    <polyline label="Stitch" occluded="0" source="manual" points="197.02,26.02;194.65,62.24" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="16.76,29.07;57.55,29.24;90.05,35.33;125.93,38.04;159.44,41.25;217.67,44.64" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="116.12,18.57;113.41,56.15" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="157.75,22.30;155.89,57.67" z_order="0">
+    </polyline>
+  </image>
+  <image id="89" name="incision_couples/SA_20231011-104231_e3sdqld32ut6_incision_crop_0_start.jpg" width="229" height="71">
+  </image>
+  <image id="90" name="incision_couples/SA_20231012-103136_urbpfmizxvfs_incision_crop_0.jpg" width="153" height="57">
+    <polyline label="Stitch" occluded="0" source="manual" points="57.21,11.09;60.15,40.60" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="6.10,24.21;33.47,25.00;59.70,27.37;83.34,26.02;108.78,29.86;131.40,33.03;146.44,32.57" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="82.09,12.90;84.58,42.07" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="106.63,12.79;108.21,44.00" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="131.28,12.11;130.94,46.94" z_order="0">
+    </polyline>
+  </image>
+  <image id="91" name="incision_couples/SA_20231012-103136_urbpfmizxvfs_incision_crop_0_start.jpg" width="153" height="57">
+    <polyline label="Stitch" occluded="0" source="manual" points="82.21,13.01;84.81,41.85" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="131.06,12.33;130.94,47.27" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="7.35,24.66;36.75,25.22;60.83,28.62;83.90,26.58;117.83,31.67;147.11,32.12" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="57.44,10.41;60.38,41.51" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="106.41,12.90;108.21,44.33" z_order="0">
+    </polyline>
+  </image>
+  <image id="92" name="incision_couples/SA_20240206-111518_9nbp4bns408e_incision_crop_0.jpg" width="137" height="43">
+    <polyline label="Stitch" occluded="0" source="manual" points="89.65,12.50;89.55,35.40" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="10.85,18.50;25.35,17.80;35.45,18.90;42.85,19.00;65.65,21.60;73.85,22.00;80.95,23.40;89.25,24.00;100.75,24.40;114.45,25.30;127.45,25.60" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="113.85,13.60;113.85,35.90" z_order="0">
+    </polyline>
+  </image>
+  <image id="93" name="incision_couples/SA_20240206-111518_9nbp4bns408e_incision_crop_0_start.jpg" width="137" height="43">
+    <polyline label="Stitch" occluded="0" source="manual" points="23.95,11.80;24.25,31.30" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="127.75,26.70;88.15,25.40;74.75,23.80;64.35,23.70;47.35,24.00;37.20,21.90;11.95,20.10" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="64.45,13.90;64.75,35.40" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="113.55,14.90;112.75,36.40" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="88.85,14.10;88.55,36.20" z_order="0">
+    </polyline>
+  </image>
+  <image id="94" name="incision_couples/SA_20240213-102404_ehnxsn46xjb3_incision_crop_0.jpg" width="129" height="38">
+    <polyline label="Incision" occluded="0" source="manual" points="118.15,22.40;105.25,20.90;91.65,20.20;76.75,18.20;64.15,16.90;42.35,14.80;24.45,14.70;10.55,14.80" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="107.25,14.40;106.65,31.90" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="85.05,11.10;84.95,27.50" z_order="0">
+    </polyline>
+  </image>
+  <image id="95" name="incision_couples/SA_20240213-102404_ehnxsn46xjb3_incision_crop_0_start.jpg" width="129" height="38">
+  </image>
+  <image id="96" name="incision_couples/SA_20240215-113735_s7d6x829ttl3_incision_crop_0.jpg" width="129" height="38">
+    <polyline label="Incision" occluded="0" source="manual" points="11.10,15.00;32.70,14.70;55.70,15.60;80.80,18.60;96.30,21.00;116.70,22.60" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="106.80,15.00;106.50,31.20" z_order="0">
+    </polyline>
+  </image>
+  <image id="97" name="incision_couples/SA_20240215-113735_s7d6x829ttl3_incision_crop_0_start.jpg" width="129" height="38">
+  </image>
+  <image id="98" name="incision_couples/SA_20240220-121134_uwke7gr7u8r0_incision_crop_0.jpg" width="132" height="42">
+    <polyline label="Stitch" occluded="0" source="manual" points="109.50,14.00;109.10,31.90" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="87.70,11.20;87.10,30.00" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="11.00,16.30;36.30,18.20;61.30,19.20;77.90,21.10;123.50,23.90" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="99" name="incision_couples/SA_20240220-121134_uwke7gr7u8r0_incision_crop_0_start.jpg" width="132" height="42">
+  </image>
+  <image id="100" name="incision_couples/SA_20240220-121235_y8j29tf673l1_incision_crop_0.jpg" width="151" height="54">
+    <polyline label="Stitch" occluded="0" source="manual" points="129.30,11.30;131.40,30.50" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="15.50,32.80;37.50,27.80;71.10,27.80;93.40,25.90;131.60,18.70" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="101" name="incision_couples/SA_20240220-121235_y8j29tf673l1_incision_crop_0_start.jpg" width="151" height="54">
+    <polyline label="Incision" occluded="0" source="manual" points="15.20,33.10;37.00,29.20;69.60,28.50;97.20,27.20;139.30,23.10" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="133.10,9.50;129.50,34.40" z_order="0">
+    </polyline>
+  </image>
+  <image id="102" name="incision_couples/SA_20240220-121559_0kil06aynvdz_incision_crop_0.jpg" width="157" height="45">
+    <polyline label="Incision" occluded="0" source="manual" points="15.51,22.40;58.64,20.95;107.97,21.57;146.76,22.71" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="109.11,12.99;107.97,33.57" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="57.50,32.64;56.57,15.16" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="84.19,33.16;83.88,13.50" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="137.66,14.23;137.76,37.09" z_order="0">
+    </polyline>
+  </image>
+  <image id="103" name="incision_couples/SA_20240220-121559_0kil06aynvdz_incision_crop_0_start.jpg" width="157" height="45">
+    <polyline label="Incision" occluded="0" source="manual" points="15.72,16.30;38.88,16.19;63.50,14.54;148.10,17.23" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="137.66,9.06;137.45,30.98" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="108.39,7.61;107.66,27.98" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="82.94,7.92;82.94,28.71" z_order="0">
+    </polyline>
+  </image>
+  <image id="104" name="incision_couples/SA_20240220-123416_c8cy3agkvg5h_incision_crop_0.jpg" width="135" height="44">
+    <polyline label="Incision" occluded="0" source="manual" points="10.41,29.34;23.54,26.74;41.64,25.43;67.44,24.25;96.42,23.19;121.15,21.17" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="115.95,14.08;116.54,28.63" z_order="0">
+    </polyline>
+  </image>
+  <image id="105" name="incision_couples/SA_20240220-123416_c8cy3agkvg5h_incision_crop_0_start.jpg" width="135" height="44">
+    <polyline label="Incision" occluded="0" source="manual" points="11.59,30.05;25.79,26.50;51.35,25.20;78.80,23.90;100.21,22.59;121.86,21.17" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="106" name="incision_couples/SA_20240220-124112_cn7pnnz95cf4_incision_crop_0.jpg" width="152" height="46">
+    <polyline label="Stitch" occluded="0" source="manual" points="78.34,13.54;78.07,31.92" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="132.42,11.67;132.55,32.32" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="104.58,12.47;104.58,32.19" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="53.29,14.60;53.56,33.92" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="24.92,16.60;25.18,37.25" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="12.13,28.59;25.58,26.33;54.09,25.13;79.53,23.80;105.38,23.40;142.28,22.86" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="107" name="incision_couples/SA_20240220-124112_cn7pnnz95cf4_incision_crop_0_start.jpg" width="152" height="46">
+    <polyline label="Incision" occluded="0" source="manual" points="12.79,28.46;53.16,25.40;78.20,23.80;104.98,23.13;142.28,22.60" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="78.20,13.41;78.07,32.06" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="104.45,12.07;104.71,32.72" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="132.02,11.94;132.42,32.86" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="53.56,14.74;53.42,33.65" z_order="0">
+    </polyline>
+  </image>
+  <image id="108" name="incision_couples/SA_20240220-124311_3nlzdyi7n5tq_incision_crop_0.jpg" width="146" height="53">
+    <polyline label="Stitch" occluded="0" source="manual" points="96.60,16.75;97.40,37.15" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="120.20,15.35;121.00,34.75" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="8.40,32.95;74.20,30.75;97.60,27.75;112.00,29.75;135.80,27.75" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="109" name="incision_couples/SA_20240220-124311_3nlzdyi7n5tq_incision_crop_0_start.jpg" width="146" height="53">
+    <polyline label="Incision" occluded="0" source="manual" points="9.20,32.85;78.00,32.25;109.80,28.25;135.40,27.25" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="120.40,14.85;121.40,33.45" z_order="0">
+    </polyline>
+  </image>
+  <image id="110" name="incision_couples/SA_20240220-124511_7rpm5cqam07z_incision_crop_0.jpg" width="159" height="50">
+    <polyline label="Stitch" occluded="0" source="manual" points="56.10,12.15;58.30,37.55" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="135.10,11.35;138.70,38.75" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="110.10,10.75;111.90,39.75" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="84.50,9.15;84.90,38.35" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="10.30,26.75;35.70,24.35;51.70,25.75;112.30,26.15;131.90,27.55;150.30,27.95" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="111" name="incision_couples/SA_20240220-124511_7rpm5cqam07z_incision_crop_0_start.jpg" width="159" height="50">
+    <polyline label="Stitch" occluded="0" source="manual" points="135.70,11.75;138.50,38.55" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="12.10,26.35;59.10,25.75;148.30,27.95" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="83.90,10.15;84.90,37.75" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="110.10,12.15;113.10,39.55" z_order="0">
+    </polyline>
+  </image>
+  <image id="112" name="incision_couples/SA_20240220-174314_60pu18sh0kjb_incision_crop_0.jpg" width="150" height="52">
+    <polyline label="Incision" occluded="0" source="manual" points="13.30,24.89;54.66,23.45;89.13,24.33;111.09,27.22;137.36,26.44" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="123.95,16.57;124.06,36.31" z_order="0">
+    </polyline>
+  </image>
+  <image id="113" name="incision_couples/SA_20240220-174314_60pu18sh0kjb_incision_crop_0_start.jpg" width="150" height="52">
+    <polyline label="Incision" occluded="0" source="manual" points="14.08,25.11;51.99,22.89;92.13,22.67;120.07,25.00;137.91,26.66" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="114" name="incision_couples/SA_20240220-180032_xb3bbhzbyebe_incision_crop_0.jpg" width="146" height="43">
+    <polyline label="Stitch" occluded="0" source="manual" points="119.03,14.70;118.92,29.81" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="10.25,17.72;38.31,17.83;65.07,20.53;89.13,20.63;112.01,20.20;132.84,20.42" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="71.98,12.76;71.55,29.05" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="46.19,9.84;45.32,27.54" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="95.61,14.92;95.18,29.16" z_order="0">
+    </polyline>
+  </image>
+  <image id="115" name="incision_couples/SA_20240220-180032_xb3bbhzbyebe_incision_crop_0_start.jpg" width="146" height="43">
+    <polyline label="Incision" occluded="0" source="manual" points="31.83,13.94;58.92,14.48;85.79,17.61;102.62,17.83;117.41,15.56;133.05,16.75;144.60,16.97" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="116.54,10.92;116.54,26.35" z_order="0">
+    </polyline>
+  </image>
+  <image id="116" name="incision_couples/SA_20240220-181316_2zonbhco69b0_incision_crop_0.jpg" width="146" height="52">
+    <polyline label="Incision" occluded="0" source="manual" points="11.86,28.59;29.15,27.23;58.79,27.60;73.24,26.86;86.83,26.74;109.19,26.99;127.84,27.97;132.04,27.48" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="121.42,14.88;121.05,36.50" z_order="0">
+    </polyline>
+  </image>
+  <image id="117" name="incision_couples/SA_20240220-181316_2zonbhco69b0_incision_crop_0_start.jpg" width="146" height="52">
+    <polyline label="Incision" occluded="0" source="manual" points="13.09,28.59;38.41,27.97;63.98,27.97;82.88,27.11;114.75,27.48;133.27,27.36" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="118" name="incision_couples/SA_20240220-181503_4csvuscujcq5_incision_crop_0.jpg" width="172" height="50">
+    <polyline label="Stitch" occluded="0" source="manual" points="145.96,15.68;145.23,38.24" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="16.87,23.68;44.67,23.25;80.76,27.32;105.78,28.63;128.50,27.32;150.89,26.74;157.88,25.58" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="89.49,15.68;88.32,37.36" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="63.15,13.35;60.40,35.47" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="32.15,11.17;31.57,32.27" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="116.99,16.70;117.72,38.53" z_order="0">
+    </polyline>
+  </image>
+  <image id="119" name="incision_couples/SA_20240220-181503_4csvuscujcq5_incision_crop_0_start.jpg" width="172" height="50">
+    <polyline label="Stitch" occluded="0" source="manual" points="123.83,7.68;124.26,28.78" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="24.89,16.26;69.99,16.41;97.64,19.76;116.12,19.76;124.99,18.45;152.35,17.28;164.28,16.26" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="151.77,5.93;152.06,28.20" z_order="0">
+    </polyline>
+  </image>
+  <image id="120" name="incision_couples/SA_20240220-215955_vhl3f7clwe28_incision_crop_0.jpg" width="143" height="54">
+    <polyline label="Incision" occluded="0" source="manual" points="9.56,26.52;32.91,26.52;48.39,27.49;55.53,28.09;64.85,28.70;74.65,28.82;87.96,28.94;91.34,29.91;107.68,29.42;112.03,30.39;133.93,30.39" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="124.25,40.68;125.10,34.51;126.06,23.25" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="71.62,38.13;73.20,27.49;73.44,18.78" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="98.84,40.07;101.63,22.17" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="48.64,38.38;48.15,21.32" z_order="0">
+    </polyline>
+  </image>
+  <image id="121" name="incision_couples/SA_20240220-215955_vhl3f7clwe28_incision_crop_0_start.jpg" width="143" height="54">
+    <polyline label="Stitch" occluded="0" source="manual" points="124.73,39.34;126.19,21.20" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="11.50,25.31;39.44,26.52;59.40,27.25;72.59,25.92;100.42,26.04;107.55,26.28;110.70,28.21;116.02,28.82;132.96,29.18" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="122" name="incision_couples/SA_20240221-063940_g57xfwn684z7_incision_crop_0.jpg" width="146" height="54">
+    <polyline label="Stitch" occluded="0" source="manual" points="98.20,37.99;97.82,27.49;96.71,18.48" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="10.00,32.68;21.86,31.82;31.00,32.80;39.03,32.93;53.36,32.19;62.75,32.31;65.71,33.05;73.86,31.82;80.41,30.46;86.34,30.46;96.71,27.74;107.71,28.73;113.39,28.73;122.90,27.49;135.25,26.01" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="121.42,36.88;122.53,30.83;121.66,23.54;119.56,17.49" z_order="0">
+    </polyline>
+  </image>
+  <image id="123" name="incision_couples/SA_20240221-063940_g57xfwn684z7_incision_crop_0_start.jpg" width="146" height="54">
+    <polyline label="Incision" occluded="0" source="manual" points="9.63,34.53;29.02,33.30;34.83,34.16;55.70,33.79;79.67,32.43;100.29,30.46;120.06,28.97;133.03,27.99" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="124" name="incision_couples/SA_20240221-102238_so4qzqo8o15i_incision_crop_0.jpg" width="137" height="49">
+    <polyline label="Stitch" occluded="0" source="manual" points="23.70,18.55;25.20,35.65" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="11.00,29.65;31.20,27.35;52.60,27.05;65.50,27.85;78.00,27.55;87.90,28.35;99.10,26.95;109.40,24.85;128.30,24.45" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="116.70,15.45;118.50,30.25" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="94.60,20.65;95.70,35.85" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="70.40,17.65;71.60,34.65" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="47.20,14.95;48.30,37.25" z_order="0">
+    </polyline>
+  </image>
+  <image id="125" name="incision_couples/SA_20240221-102238_so4qzqo8o15i_incision_crop_0_start.jpg" width="137" height="49">
+    <polyline label="Incision" occluded="0" source="manual" points="12.60,29.25;47.00,27.25;66.20,28.15;87.00,29.15;102.50,28.25;120.90,26.35;128.10,24.75" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="126" name="incision_couples/SA_20240221-124113_bsvosrv74isf_incision_crop_0.jpg" width="154" height="44">
+    <polyline label="Stitch" occluded="0" source="manual" points="108.40,7.35;109.80,27.95" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="134.00,26.05;133.00,7.15" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="19.40,14.75;37.20,13.85;58.00,14.95;67.60,18.55;94.90,17.45;115.60,18.25;126.10,14.05;142.30,13.95" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="81.40,8.25;82.40,26.05" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="58.10,8.05;59.40,26.15" z_order="0">
+    </polyline>
+  </image>
+  <image id="127" name="incision_couples/SA_20240221-124113_bsvosrv74isf_incision_crop_0_start.jpg" width="154" height="44">
+    <polyline label="Incision" occluded="0" source="manual" points="22.70,20.85;72.70,19.25;104.70,19.25;120.00,18.65;129.00,15.05;142.00,14.75" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="132.60,6.95;135.10,27.05" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="109.50,8.05;110.30,25.75" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="82.40,10.55;84.20,29.25" z_order="0">
+    </polyline>
+  </image>
+  <image id="128" name="incision_couples/SA_20240222-122912_of6t05jw5vki_incision_crop_0.jpg" width="108" height="38">
+    <polyline label="Stitch" occluded="0" source="manual" points="19.50,9.45;16.70,24.65" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="9.60,13.85;18.50,16.55;38.60,19.15;58.20,21.25;76.80,22.65;95.90,22.85;103.80,22.65" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="95.70,15.55;95.30,29.95" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="76.20,13.75;74.60,30.35" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="57.80,11.05;57.50,30.15" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="38.20,11.55;37.50,26.65" z_order="0">
+    </polyline>
+  </image>
+  <image id="129" name="incision_couples/SA_20240222-122912_of6t05jw5vki_incision_crop_0_start.jpg" width="108" height="38">
+    <polyline label="Incision" occluded="0" source="manual" points="10.90,14.05;18.40,16.20;38.90,19.05;58.10,20.80;77.30,22.65;96.00,23.05;102.20,23.05" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="19.50,9.45;17.00,23.75" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="76.10,13.85;75.60,31.35" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="57.90,12.35;57.30,29.75" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="38.20,11.85;37.30,27.15" z_order="0">
+    </polyline>
+  </image>
+  <image id="130" name="incision_couples/SA_20240222-223823_q8c1f2em34kf_incision_crop_0.jpg" width="135" height="44">
+    <polyline label="Stitch" occluded="0" source="manual" points="114.50,4.45;118.00,22.55" z_order="0">
+    </polyline>
+    <polyline label="Incision" occluded="0" source="manual" points="12.00,27.75;23.40,23.85;46.50,21.50;69.20,21.40;94.30,20.05;115.90,15.30;126.40,14.35" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="22.00,11.05;23.80,31.15" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="45.70,6.20;46.10,30.65" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="68.10,10.55;70.10,30.15" z_order="0">
+    </polyline>
+    <polyline label="Stitch" occluded="0" source="manual" points="92.80,12.55;94.90,30.25" z_order="0">
+    </polyline>
+  </image>
+  <image id="131" name="incision_couples/SA_20240222-223823_q8c1f2em34kf_incision_crop_0_start.jpg" width="135" height="44">
+    <polyline label="Incision" occluded="0" source="manual" points="13.90,19.35;23.90,14.75;46.20,13.95;68.10,15.15;90.30,15.25;118.10,12.65" z_order="0">
+      <attribute name="Type">Single</attribute>
+    </polyline>
+  </image>
+  <image id="132" name="incision_couples/SA_20240223-234821_5mnv5n0fxzi8_incision_crop_0.jpg" width="96" height="27">
+  </image>
+  <image id="133" name="incision_couples/SA_20240223-234821_5mnv5n0fxzi8_incision_crop_0_start.jpg" width="96" height="27">
+  </image>
+</annotations>
